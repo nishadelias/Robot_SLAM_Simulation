@@ -1,7 +1,6 @@
 # Robot_SLAM_Simulation
 SLAM: Simultaneous Localization and Mapping
-
-
+_____________________________________________
 
 Unit A: Use a motion model to determine the robot's trajectory, analyze lidar scans to find the cylinder positions.
 
