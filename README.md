@@ -25,7 +25,7 @@ Unit D: The Kalman Filter.
 _____________________________________________
 
 Unit E: The Particle Filter.
-=
+-
 
 _____________________________________________
 
@@ -35,5 +35,5 @@ Unit F: Simultaneous Localization and Mapping.
 _____________________________________________
 
 Unit F: Particle Filter SLAM (FastSLAM).
-=
+-
 
