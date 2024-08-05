@@ -2,8 +2,8 @@
 SLAM: Simultaneous Localization and Mapping
 _____________________________________________
 
-# Unit A: Use a motion model to determine the robot's trajectory, analyze lidar scans to find the cylinder positions.
-
+Unit A: Use a motion model to determine the robot's trajectory, analyze lidar scans to find the cylinder positions.
+-
 Run slam_02_b_filter_motor_file_question.py and and slam_03_d_find_cylinders_cartesian_question.py to generate the necessary text files. 
 
 Then run logfile_viewer.py and load text files to view the robot's calculated path, the reference path, the lidar scans, the scanned locations of the cylinders, and the real locations of the cylinders.
