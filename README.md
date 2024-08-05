@@ -1,5 +1,5 @@
 # Robot_SLAM_Simulation
-SLAM: Simultaneous Localization and Mapping
+SLAM (simultaneous localization and mapping) is a method used for autonomous vehicles that lets you build a map and localize your vehicle in that map at the same time. SLAM algorithms allow the vehicle to map out unknown environments. Engineers use the map information to carry out tasks such as path planning and obstacle avoidance.
 _____________________________________________
 
 Unit A: Use a motion model to determine the robot's trajectory, analyze lidar scans to find the cylinder positions.
