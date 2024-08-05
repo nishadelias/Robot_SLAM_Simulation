@@ -10,13 +10,30 @@ Then run logfile_viewer.py and load text files to view the robot's calculated pa
 _____________________________________________
 
 Unit B: Using sensor data to improve the robot's state.
+-
+
+_____________________________________________
 
 Unit C: Filtering.
+-
+
+_____________________________________________
 
 Unit D: The Kalman Filter.
+-
+
+_____________________________________________
 
 Unit E: The Particle Filter.
+-
+
+_____________________________________________
 
 Unit F: Simultaneous Localization and Mapping.
+-
+
+_____________________________________________
 
 Unit F: Particle Filter SLAM (FastSLAM).
+=
+
